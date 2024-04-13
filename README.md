@@ -5,36 +5,36 @@
 
 These include:
   ## Police Impersonator 
-  Status: Done
+  Status: ✅ Done
 --------------
   Description: A person driving a police car "FBI2 spawn code"
   
   ## Stolen Police Vehicle 
-  Status: Work in progress.
+  Status: 🟧 Work in progress.
 --------------
   Description: N/A
   
   ## Stolen Bus
-  Status: Done
+  Status: ✅ Done
 --------------
   Description: A random ped has stolen a bus. 
   
   ## Stolen Military Vehicle
-  Status: Work in progress
+  Status: 🟧 Work in progress
 --------------
   Description: N/A
   
   ## Stolen Helicopter
-  Status: Not Started
+  Status: 🟥 Not Started
 --------------
   Description: N/A
   
   ## Lumber Truck Pursuit
-  Status: Done
+  Status: ✅ Done
 --------------
   Description: A random ped has stolen a lumber truck.
 
   ## Suspicious Man at the Academy
-  Status: Done
+  Status: ✅ Done
   --------------
   Description: A Suspicious man has been spotted at the academy.
