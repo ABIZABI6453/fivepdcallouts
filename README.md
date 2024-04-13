@@ -11,7 +11,7 @@ These include:
   
   ## Stolen Police Vehicle 
   Status: Work in progress.
-    --------------
+--------------
   Description: N/A
   
   ## Stolen Bus
